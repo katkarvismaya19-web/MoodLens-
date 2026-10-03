@@ -1,0 +1,8 @@
+torch
+torchvision
+opencv-python
+streamlit>=1.48
+pandas
+pillow
+matplotlib
+kaggle

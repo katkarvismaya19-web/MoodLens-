@@ -1,0 +1,25 @@
+{
+  "test_accuracy": 0.6904,
+  "per_class_accuracy": {
+    "angry": 0.6618,
+    "disgust": 0.5766,
+    "fear": 0.4619,
+    "happy": 0.8878,
+    "neutral": 0.7056,
+    "sad": 0.5397,
+    "surprise": 0.8026
+  },
+  "epochs": 40,
+  "parameters": 5870279,
+  "classes": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "train_images": 28709,
+  "test_images": 7178
+}
